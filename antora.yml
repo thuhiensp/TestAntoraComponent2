@@ -1,0 +1,6 @@
+name: ponysdk-v2
+title: PonySDK v2
+version: 2.1
+start_page: ROOT:welcome.adoc
+nav:
+- modules/ROOT/nav.adoc

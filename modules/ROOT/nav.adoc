@@ -1,0 +1,7 @@
+* xref:welcome.adoc[Welcome]
+* xref:global.adoc[Architecture]
+* Main difference to previous versions
+** xref:serverside.adoc[Server Side]
+** xref:clientside.adoc[Client Side]
+* xref:usage.adoc[Usage]
+* xref:generator.adoc[WebIdl vs Generator]
